@@ -18,4 +18,3 @@ Asus Z170i Pro Gaming OpenCore QNCT
 | PSU         |          |                             |        |                        |
 | Case        |          |                             |        |                        |
 | Monitor     |          |                             |        |                        |
-
